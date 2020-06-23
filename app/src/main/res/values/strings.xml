@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="tittle_main">Choose Your Train</string>
+    <string-array name= "fragment_list">
+        <item>The Limb Looser</item>
+        <item>Core Agony</item>
+        <item>The Wimp Special</item>
+        <item>Strength and Length</item>
+
+    </string-array>
+</resources>
